@@ -3,7 +3,6 @@ bin/*
 lib/*
 build_data.json
 character/*
-etc/*
 featuretable_linux.txt
 firestorm_48.png
 FIRESTORM_DESKTOPINSTALL.txt
@@ -19,4 +18,3 @@ secondlife-i686.supp
 skins/*
 VivoxAUP.txt
 app_settings/*
-*/**/*.sh
