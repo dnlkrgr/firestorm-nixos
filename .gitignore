@@ -18,3 +18,5 @@ res-sdl/*
 secondlife-i686.supp
 skins/*
 VivoxAUP.txt
+app_settings/*
+*/**/*.sh
